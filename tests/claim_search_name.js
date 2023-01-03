@@ -2,15 +2,14 @@
 	'jsonrpc': '2.0',
 	'result': {
 		'blocked': {
-			'channels': [
-			],
+			'channels': [],
 			'total': 0
 		},
 		'items': [
 			{
 				'address': 'bWz7xD1e9LCTdTjuX1BymvKPXpbw14qVjy',
 				'amount': '0.001',
-				'canonical_url': 'lbry://@JouninReact#8',
+				'canonical_url': 'lbry: //@JouninReact#8',
 				'claim_id': '8764665011ac1709fdaec14e4b5324842d1d0563',
 				'claim_op': 'create',
 				'confirmations': 33443,
@@ -31,8 +30,8 @@
 				'name': '@JouninReact',
 				'normalized_name': '@jouninreact',
 				'nout': 0,
-				'permanent_url': 'lbry://@JouninReact#8764665011ac1709fdaec14e4b5324842d1d0563',
-				'short_url': 'lbry://@JouninReact#8',
+				'permanent_url': 'lbry: //@JouninReact#8764665011ac1709fdaec14e4b5324842d1d0563',
+				'short_url': 'lbry: //@JouninReact#8',
 				'timestamp': 1651447133,
 				'txid': '540896ed99a592e935aa4d88c8ddf762542a6f50d423b074f676a8d1ceb94416',
 				'type': 'claim',
@@ -46,7 +45,7 @@
 			{
 				'address': 'bS3b2TE9ftqPdYU9d45B3sjYMek8j2pYty',
 				'amount': '0.005',
-				'canonical_url': 'lbry://@JouninReact#d',
+				'canonical_url': 'lbry: //@JouninReact#d',
 				'claim_id': 'd23a0b118dba233ec4767b309a449820f781b748',
 				'claim_op': 'update',
 				'confirmations': 20057,
@@ -67,14 +66,14 @@
 				'name': '@JouninReact',
 				'normalized_name': '@jouninreact',
 				'nout': 0,
-				'permanent_url': 'lbry://@JouninReact#d23a0b118dba233ec4767b309a449820f781b748',
-				'short_url': 'lbry://@JouninReact#d',
+				'permanent_url': 'lbry: //@JouninReact#d23a0b118dba233ec4767b309a449820f781b748',
+				'short_url': 'lbry: //@JouninReact#d',
 				'timestamp': 1653593187,
 				'txid': 'ccb14acdb5bffb650b17869f5b1a4e934e27021a3287ce53ac46a38e111c56a2',
 				'type': 'claim',
 				'value': {
 					'cover': {
-						'url': 'https://thumbnails.lbry.com/banner-UCoCZvwn5YnRvWbNIh3S6S9g'
+						'url': 'https: //thumbnails.lbry.com/banner-UCoCZvwn5YnRvWbNIh3S6S9g'
 					},
 					'description': 'Fizemos esse canal no intuito de nos divertir e trazer entretenimento. ♥️\n\nNosso Instagram:\n@jouninYT\n@_luanarabello',
 					'email': 'jouninreact@outlook.com',
@@ -91,7 +90,7 @@
 						'reaction'
 					],
 					'thumbnail': {
-						'url': 'https://thumbnails.lbry.com/UCoCZvwn5YnRvWbNIh3S6S9g'
+						'url': 'https: //thumbnails.lbry.com/UCoCZvwn5YnRvWbNIh3S6S9g'
 					},
 					'title': 'Jounin React'
 				},
